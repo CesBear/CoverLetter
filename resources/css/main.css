@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Garamond, sans-serif;
+    max-height: 100%;
+    max-width: 100%;
+    min-width: 360px;
+}
+
+.container {
+    text-align: left;
+    line-height: 0.7;
+    background-image: url("../images/pattern.png");
+    background-size:auto    ;
+    color: black;
+    max-width: 100%;
+    padding: 5px 10px;
+}
+
+.contact {
+    padding: 10px;
+}
+
+.contact p {
+    line-height: 0.1;
+    font-size: 13px;
+    text-align: justify;
+}
+
+.content {
+      padding: 10px;
+}
+
+.firm {
+    line-height: 1;
+}
+
+h1 {
+    font-size: 40px;
+    font-family:Verdana,sans-serif;
+}
+
+h6 {
+    text-align: right;
+    padding-right: 10px;
+    margin: 20px;
+}
+
+footer {
+    padding: 10px 10px;
+}
+
+.main {
+    max-width: 100%;
+    min-width: 50%;
+    margin: 20px 30px;
+}
+hr {
+    margin: 0;
+}
